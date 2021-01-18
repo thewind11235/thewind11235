@@ -1,4 +1,5 @@
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thewind11235&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewind11235&layout=compact&theme=synthwave)](https://github.com/thewind11235/thewind11235)
 
 
 <!--
